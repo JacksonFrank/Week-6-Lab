@@ -32,11 +32,11 @@ If you need any help with this program or find any bug, fell free to email me GU
 
 ## License
 
-This program is using MIT License. Full document is under the [MIT License]( https://github.com/wgr5600133/Week-6-Lab/LICENSE).
+This program is using MIT License. Full document is under the [MIT License]( https://github.com/wgr5600133/Week-6-Lab/blob/master/README.md).
 
 ## Code of Conduct
 
-Please follow the rules in code of conduct and help us to build a healthy community. Full document is under the [CODE-OF-CONDUCT](https://github.com/wgr5600133/Week-6-Lab/CODE-OF-CONDUCT).
+Please follow the rules in code of conduct and help us to build a healthy community. Full document is under the [CODE-OF-CONDUCT](https://github.com/wgr5600133/Week-6-Lab/blob/master/CODE-OF-CONDUCT.md).
 
 ## Description of the program
 
