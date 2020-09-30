@@ -42,8 +42,11 @@ Please follow the rules in code of conduct and help us to build a healthy commun
 
 The program will take a name and the year of that person born. Calculate the the age of that person. Then print the name and age of that person
 
-## group member
+## Group member
 - Jackson Frank
-- Jenny Lee
 - Guangrui Wang
 - Alexander Chlpka
+
+## Why I choose this license and COC
+
+MIT license, I think is the one of the most wide used license in GitHub. I think that MIT license give people enough right to change the program and also protects the original programmer's right. I choose to write this COC is because there are many common bias we are facing in every day of life. I chose the most common bias to write out in order to protect our community. 
