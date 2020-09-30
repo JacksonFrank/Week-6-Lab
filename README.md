@@ -32,7 +32,7 @@ If you need any help with this program or find any bug, fell free to email me GU
 
 ## License
 
-This program is using MIT License. Full document is under the [MIT License]( https://github.com/wgr5600133/Week-6-Lab/blob/master/README.md).
+This program is using MIT License. Full document is under the [MIT License](https://github.com/wgr5600133/Week-6-Lab/blob/master/LICENSE.md).
 
 ## Code of Conduct
 

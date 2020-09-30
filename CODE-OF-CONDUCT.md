@@ -1,10 +1,10 @@
-## **Acceptable **behavior
+## Acceptable behavior
 
 Feel free to report any bug or make any change to this program. We encourage you to ask questions and answer questions.
 
-## **Unacceptable **behavior
+## Unacceptable behavior
 
-**Attacks/Cursing ** is not allowed.
+**Attacks/Cursing** is not allowed.
 
 **Racism** is not allowed.
 
