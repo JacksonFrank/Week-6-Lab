@@ -57,4 +57,4 @@ The program will take a name and the year of that person born. Calculate the the
 
 ## Why we choose this license and COC
 
-MIT license, I think is the one of the most wide used license in GitHub. I think that MIT license give people enough right to change the program and also protects the original programmer's right. I choose to write this COC is because there are many common bias we are facing in every day of life. I chose the most common bias to write out in order to protect our community. 
+MIT license, since it's one of the most wide used license in GitHub. The MIT license gives people enough right to change the program and also protects the original programmer's right. We chose to use the [Contributer Covenant](https://www.contributor-covenant.org/) for our code of conduct because it is comprehensive, widely used, and it aligns with our values.
