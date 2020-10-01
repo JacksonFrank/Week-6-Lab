@@ -1,5 +1,5 @@
-# Week-6-Lab
-Repository for Week 6 Lab
+# CMPINF 0010 Lab
+Repository for labs for CMPINF 0010 at the University of Pittsburgh
 
 ## Features
 
@@ -14,14 +14,22 @@ This program take a **input** of your name and birthday and **output** a welcome
 
 ```python
 name = input("What is your name?: ")
-age = input("When is your birthday (year):")
+age = input("What year were you born?: ")
 
-age = 2022-int(age)
+age = 2020 - int(age)
 
-print("Hello!!",name,"You are",age,"years old")
+print("Hello ", name, ", you are ", age, " years old.", sep="")
+```
 
-input: xxxx 2000
-output: Hello!! xxx You are 20 years old
+### Input
+```
+Paul
+2000
+```
+
+### Output
+```
+Hello Paul, you are 20 years old.
 ```
 
 ---
@@ -42,11 +50,11 @@ Please follow the rules in code of conduct and help us to build a healthy commun
 
 The program will take a name and the year of that person born. Calculate the the age of that person. Then print the name and age of that person
 
-## Group member
+## Group members
 - Jackson Frank
 - Guangrui Wang
 - Alexander Chlpka
 
-## Why I choose this license and COC
+## Why we choose this license and COC
 
 MIT license, I think is the one of the most wide used license in GitHub. I think that MIT license give people enough right to change the program and also protects the original programmer's right. I choose to write this COC is because there are many common bias we are facing in every day of life. I chose the most common bias to write out in order to protect our community. 
